@@ -1,6 +1,7 @@
 ![MasterHead](https://www.themoontechnologies.com/images/website.gif)
 <h1 align="center">Hi 👋, I'm Gurpreet Singh</h1>
 <h3 align="center">A passionate Java Full-Stack developer from India 👨‍💻 and Exploring New technologies.</h3>
+<img align="right" alt="Coding" width="400" src="![image](https://user-images.githubusercontent.com/68956821/212380148-00b506a4-22d3-4841-b278-ae3d5ae0dd44.png)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guru-21&label=Profile%20views&color=0e75b6&style=flat" alt="guru-21" /> </p>
 
